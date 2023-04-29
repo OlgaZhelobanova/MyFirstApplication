@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/home_page"
+        android:title="Лента" />
+
+    <item
+        android:id="@+id/navigation_buy_list"
+        android:icon="@drawable/buy_list"
+        android:title="Покупки" />
+
+    <item
+        android:id="@+id/navigation_ingredients"
+        android:icon="@drawable/fridge_best"
+        android:title="Продукты" />
+
+    <item
+        android:id="@+id/navigation_categories"
+        android:icon="@drawable/search_best"
+        android:title="Поиск" />
+
+    <item
+        android:id="@+id/navigation_my_profile"
+        android:icon="@drawable/my_page"
+        android:title="Профиль" />
+
+</menu>

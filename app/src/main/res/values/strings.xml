@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Delicious meal</string>
+    <string name="title_activity_navigation">NavigationActivity</string>
+    <string name="title_home_page">Это лента рецептов</string>
+    <string name="title_buy_list">Это список покупок</string>
+    <string name="title_ingredients">Это ингредиенты</string>
+    <string name="title_categories">Это категории рецептов</string>
+    <string name="title_my_profile">Это личный профиль</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="search_ingredients">Поиск по изображению</string>
+    <string name="search_ingredients2">Смотреть рецепты</string>
+    <string name="nickname_my_profile">Имя:</string>
+    <string name="myRecipes_my_profile">Мои рецепты:</string>
+    <string name="saved_my_profile">Сохраненные:</string>
+    <string name="recipes_my_profile">Мои рецепты</string>
+    <string name="recipes2_my_profile">Смотреть все</string>
+    <string name="recipes3_my_profile">Добавить новый рецепт</string>
+    <string name="recipes4_my_profile">Сохраненные</string>
+    <string name="buy_list">Добавить</string>
+    <string name="breakfast_home_page">Завтрак</string>
+    <string name="lunch_home_page">Обед</string>
+    <string name="dinner_home_page">Ужин</string>
+    <string name="snack_home_page">Перекусы</string>
+    <string name="recommend_home_page">Ежедневные рекомендации для Вас</string>
+    <string name="found_recipes_nothing">Ничего не найдено</string>
+    <string-array name="categoriesOfRecipes">
+        <item>Первые блюда</item>
+        <item>Вторые блюда</item>
+        <item>Мясо/птица</item>
+        <item>Рыбные блюда</item>
+        <item>Закуски</item>
+        <item>Салаты</item>
+        <item>Напитки</item>
+        <item>Десерты</item>
+        <item>Заготовки</item>
+        <item>Выпечка</item>
+    </string-array>
+    <string-array name="time">
+        <item>мин</item>
+        <item>ч</item>
+    </string-array>
+    <string-array name="measure">
+        <item>шт</item>
+        <item>г</item>
+        <item>л</item>
+    </string-array>
+</resources>
